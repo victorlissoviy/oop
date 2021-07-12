@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Snake{
     class Program{
-        static void main(string[] args){
+        static void Main(string[] args){
             Console.WriteLine("Hello world");
             Console.ReadLine();
         }
